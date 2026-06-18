@@ -1,0 +1,7 @@
+Team_Scale,Billing_Model,Annual_Cost_Low_USD,Annual_Cost_High_USD,Primary_Risk_Factor
+10-Seat Product Team,Flat Per-Seat,3600,6000,Minimal risk; predictable usage
+10-Seat Product Team,Credit/Usage Hybrid,2400,4800,Minimal risk; predictable usage
+50-Seat Department,Flat Per-Seat,18000,30000,Variable spikes during planning cycles
+50-Seat Department,Credit/Usage Hybrid,22000,45000,Variable spikes during planning cycles
+200-Seat Enterprise,Flat Per-Seat,72000,120000,Unmonitored automated API webhooks
+200-Seat Enterprise,Credit/Usage Hybrid,95000,190000,Unmonitored automated API webhooks
